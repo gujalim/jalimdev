@@ -1,2 +1,5 @@
 # jalimdev
-Hot Study
+
+## First Dev Study
+ - Git and Springboot
+ - 
